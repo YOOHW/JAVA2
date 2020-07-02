@@ -1,4 +1,4 @@
-package pk701;
+package pk71;
 import javax.swing.JOptionPane;
 
 public class T701_Test {

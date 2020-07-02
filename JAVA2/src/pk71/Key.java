@@ -1,4 +1,4 @@
-package pk701;
+package pk71;
 
 public class Key {
 	public int number;

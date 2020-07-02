@@ -1,4 +1,4 @@
-package pk701;
+package pk71;
 class Student{
 	int studentId;
 	String studentName;

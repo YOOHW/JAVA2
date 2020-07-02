@@ -1,4 +1,4 @@
-package pk701;
+package pk71;
 
 public class Circle implements Cloneable{
 
@@ -18,9 +18,9 @@ public class Circle implements Cloneable{
 
 	@Override
 	public String toString() {
-		return "원점은 " + point +"이고, 반지름은 "+radius +"입니다";
+		return "원점은 " + point +"이고, 반지름은 "+radius +"입니다!!!";
 	}
 	
-	
+
 	
 }
