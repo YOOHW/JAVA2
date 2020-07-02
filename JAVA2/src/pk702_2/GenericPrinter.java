@@ -1,5 +1,5 @@
 package pk702_2;
-
+//
 public class GenericPrinter<T extends Material> {
 
 	private T material;

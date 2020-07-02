@@ -1,5 +1,5 @@
 package pk702_2;
-
+//
 class MyArray{
 	private Object[] array=new Object[10];
 	int i;

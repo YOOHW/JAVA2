@@ -1,5 +1,5 @@
 package pk702;
-
+//
 public class StBufferTest {
 
 	public static void main(String[] args) {

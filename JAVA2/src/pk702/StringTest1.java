@@ -1,5 +1,5 @@
 package pk702;
-
+//
 public class StringTest1 {
 
 	public static void main(String[] args) {
