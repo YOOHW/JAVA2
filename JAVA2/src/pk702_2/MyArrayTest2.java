@@ -23,7 +23,6 @@ public class MyArrayTest2 {
 		MyArray myArray1=new MyArray();
 		myArray1.add(new String("test"));
 		String str=(String)myArray1.get(0); // 강제형변환(Object니까)
-		//==> myArray1의 주소를 얻어냄
 		System.out.println(str);
 		
 		MyArray myArray2=new MyArray();
