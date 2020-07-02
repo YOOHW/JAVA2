@@ -4,6 +4,18 @@ public class GenericPrinterTest {
 
 	public static void main(String[] args) {
 
+//		GENERIC
+//		JAVA Version 1.5이상부터 추가된 기능
+//
+//		일반적 타입(구체적) : int, String, double...
+//		--> 단점 : 너무 구체적이라서 매번~~
+//		최상위 클래스(포괄적) : Object
+//		--> 단점 : 되기는 되는데 제약조건이 없고 다~~
+//
+//		==> 다양한 타입선언을 간편하게 코딩(제네릭)
+//		붕어빵 틀 생각 내용물은 다양하게~~
+		
+		
 		
 //		T타입의 객체는 모든 클래스에서 상속이 가능하여 자동으로 클래스로 형변환이 가능함
 		

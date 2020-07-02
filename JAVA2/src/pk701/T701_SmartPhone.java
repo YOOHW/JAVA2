@@ -1,5 +1,5 @@
 package pk701;
-
+//
 public class T701_SmartPhone {
 	private String company;
 	private String os;

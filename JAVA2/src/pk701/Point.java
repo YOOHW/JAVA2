@@ -1,5 +1,5 @@
 package pk701;
-
+//
 public class Point {
 	int x;
 	int y;

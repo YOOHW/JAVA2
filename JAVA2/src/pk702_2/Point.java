@@ -1,5 +1,5 @@
 package pk702_2;
-//
+
 public class Point<T,V> {
 	
 	T x; //int x;

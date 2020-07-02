@@ -1,5 +1,5 @@
 package pk702_2;
-//
+
 public class ThreePrintPowder {
 
 	private Powder material;

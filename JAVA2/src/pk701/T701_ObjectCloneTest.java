@@ -1,5 +1,5 @@
 package pk701;
-
+//
 public class T701_ObjectCloneTest {
 
 	public static void main(String[] args) throws CloneNotSupportedException {
